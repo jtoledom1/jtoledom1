@@ -5,8 +5,6 @@
 </p>
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtoledom1&theme=algolia" alt="jtoledom1" /></a> </p>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=jtoledom1&column=10&theme=gruvbox&no-frame=true"/>
-
 
 - 🔭 I’m currently working on **Web development**
 - 🏢 Part of Toledo's Team 
