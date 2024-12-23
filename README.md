@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtoledom1&theme=algolia&rank=-C,-B" alt="jtoledom1" /></a> </p>
 
 - 🔭 I’m currently working on **Web development**
-- 🏢 CTO Toledo's
+- 🏢 CTO at Toledo's
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtoledom1&show_icons=true&locale=en&layout=compact" alt="jtoledom1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtoledom1&show_icons=true&locale=en" alt="jtoledom1" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6769f56970129741a8df0f29?variant=dark)](https://roadmap.sh) 
