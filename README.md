@@ -23,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtoledom1&show_icons=true&locale=en&layout=compact" alt="jtoledom1" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtoledom1&show_icons=true&locale=en" alt="jtoledom1" /></p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6769f56970129741a8df0f29?variant=dark)](https://roadmap.sh)
