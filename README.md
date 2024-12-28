@@ -23,3 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtoledom1&show_icons=true&locale=en&layout=compact" alt="jtoledom1" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtoledom1&show_icons=true&locale=en" alt="jtoledom1" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouredev&show_icons=true&locale=en&layout=compact" alt="mouredev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouredev&show_icons=true&locale=en" alt="mouredev" /></p>
+
