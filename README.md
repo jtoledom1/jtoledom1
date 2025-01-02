@@ -23,6 +23,7 @@
 <h4>My GH card: </h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jtoledom1&show_icons=true&locale=en" alt="jtoledom1" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s2u5wzjbp3wccpbnt6tgyzrrau&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
