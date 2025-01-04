@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtoledom1&theme=algolia&rank=-C" alt="jtoledom1" /></a> </p>
 
 - 🔭 I’m currently working on **Web development**
-- 🏢 CTO at Toledo's
+- 🏢 CTO at Toledo's o
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jtoledom1&show_icons=true&locale=en&layout=compact" alt="jtoledom1" /></p>
 
