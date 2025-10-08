@@ -6,17 +6,6 @@
 </br>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtoledom1&theme=algolia&rank=-C" alt="jtoledom1" /></a> </p>
-<h2>
-   🔭 I’m currently working on: 
-</h2>
-
-<p align="center">
-  <strong>
-    <p align="center">🟢🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢</p>
-    <p align="center">🟢___________ Center a div 🫠 ___________🟢</p>
-    <p align="center">🟢🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢</p>
-  </strong>
-</p>
 
 <h3 align="left">🛁Tools:</h3>
 <p align="left">
